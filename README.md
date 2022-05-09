@@ -17,26 +17,6 @@ The current project aims to test whether machine learning techniques could assis
 5. Finish model
 6. Present results
 
-## Contact information
-
-| Name | Phone number |
-|-------|------------|
-| Charles Wade | (731) 927-0290| 
-|Qi Wang | (512) 785-4090|
-|Kyle Johnston | (845) 797-5488|
-|Eli Testerman | (615) 337-6670|
-|Neal Bagai | (615) 956-3020|
-|Anthony Garcia| (954) 588-6955|
-|Aryn Chadha|(408) 386-8873|
-
-## Meeting Links
-
-| Type | Day and Time | Link |
-|------|--------------|------|
-| Class | Tuesday 5:30-8:30pm CST | https://vanderbilt.zoom.us/j/94508864718?pwd=bWU0VENBUmlBRXFyeUxZbkYwdkthUT09 |
-| Office Hours | Wednesday 6:00-7:00pm CST| https://vanderbilt.zoom.us/j/97673443373?pwd=bDhvbktvb0tMWnhDSnVXaW16clY3QT09 |
-| Office Hours | Thursday 5:00-6:00pm CST| https://vanderbilt.zoom.us/j/98996574060?pwd=OVhPMDAza0xJV051NWVBblJORnhodz09 |
-
 ## Resources
 Images of different themes can be found here: https://www.doaks.org/resources/moche-iconography 
  
